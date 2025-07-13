@@ -1,13 +1,28 @@
-# Airbnb Analysis Using PowerBI
-## Overview
-This project enables users to delve into accommodation trends. After retrieving and cleaning sample data, insights are derived through exploratory data analysis (EDA). The cleaned data is then utilized for analysis and visualization of trends using Power BI.
-## Table of Contents
-- [Key Technologies and Skills](#key-technologies-and-skills)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Approach](#approach)
-- [Contact](#contact)
+# 🏘️ Airbnb Data Analysis Project
+
+This project analyzes Airbnb listings data using Python, Excel, SQL, and Power BI to extract insights and build an interactive dashboard.
+
+---
+
+## ✨ Project Overview
+- Cleaned and transformed raw Airbnb data in Excel
+- Wrote SQL queries to analyze average prices, availability, and top neighborhoods
+- Used Python (pandas, matplotlib) for exploratory data analysis (EDA) and visualizations
+- Created an interactive Power BI dashboard to present key metrics
+
+---
+
+
+## 📊 Key Insights
+- Top 10 most expensive neighborhoods
+- Correlation between availability and price
+- Year-over-year change in number of listings
+- Average ratings by property type
+
+---
+
+
+
 # Key Technologies and Skills
 - Python Scripting
 - Streamlit
@@ -95,10 +110,4 @@ This Python script streamlines the process of fetching data from a local directo
 ## PowerBI Dashboard
 Build an user friendly PowerBI dashboard to vizualize and get an insights of an airbnb data. Explore ```Airbnb.pdf``` for in-depth analysis.
 
-# Contact
-📧 Email: [gokulakkrizhna@gmail.com](mailto:gokulakkrizhna@gmail.com)
 
-🌐 LinkedIn: [linkedin.com/in/gokulakkrizhna-s-241562159](https://www.linkedin.com/in/gokulakkrizhna-s-241562159/)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-  
